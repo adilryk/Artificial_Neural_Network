@@ -232,7 +232,7 @@ kagglehub
 
 # 👨‍💻 Author
 
-Developed with ❤️ using Deep Learning and NLP
+Adil Shafique
 
 ---
 
